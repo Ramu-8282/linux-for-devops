@@ -20,7 +20,7 @@ id
 
 #Dispalys the current user ID details.
 
-#4 Displays the Current person logged into teh system.
+#4 Displays the Current person logged into the system.
 
 who
 
